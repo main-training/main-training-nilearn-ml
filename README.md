@@ -1,1 +1,1 @@
-# MAIN-trainign-nilearn-ml
+# MAIN-training-nilearn-ml
